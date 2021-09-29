@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SampleTEstSuite">
+
+<test name="SampleTest01">
+<classes>
+<class name="com.picnic.mavsel.Sample2"/>
+</classes>
+</test>
+
+<test name="SampleTest02">
+<classes>
+<class name="com.picnic.mavsel.Sample2"/>
+</classes>
+</test>
+
+</suite>
+
